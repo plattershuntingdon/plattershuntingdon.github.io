@@ -1,0 +1,14 @@
+<svg width="194px" height="50px" viewBox="0 0 194 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(0.000000, -10.000000)">
+            <g id="header" transform="translate(-2.464466, 0.000000)">
+                <g id="logo" transform="translate(1.000000, 5.000000)">
+                    <rect id="Rectangle" fill="#AF0B0B" transform="translate(25.500000, 30.035534) rotate(45.000000) translate(-25.500000, -30.035534) " x="8" y="12.5355339" width="35" height="35"></rect>
+                    <text id="PLATTERS" font-family="BreeSerif-Regular, Bree Serif" font-size="40" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="15.5244661" y="43">PLATTERS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
